@@ -1,6 +1,6 @@
-# Simple-User-Major 
+# Simple User Major Project
 
-## Structure
-- back-end
-  
-- front-end
+## Table-Content
+
+- <a href='https://github.com/SdDev1223/Simple-User-Major/tree/main/backend'>back-end</a>
+- <a href='https://github.com/SdDev1223/Simple-User-Major/tree/main/frontend'>front-end</a>
